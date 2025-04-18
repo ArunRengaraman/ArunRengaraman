@@ -15,7 +15,7 @@
 - 🔍 Exploring ML, NLP, Deep Learning, and LLMs  
 - 🌐 Building projects in **Healthcare, Supply Chain, and AI Automation**  
 - 💡 Always open to collaborating on innovative ideas  
-- 📫 Reach me at: **arunrengaraman@gmail.com**
+- 📫 Reach me at: **arunrengaraman@umassd.edu**
 
 ---
 
@@ -30,6 +30,14 @@
   <img src="https://img.shields.io/badge/SQL-316192?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
+</p>
+
+---
+
+### 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=arunrengaraman&theme=tokyonight&no-bg=true&margin-w=10" />
 </p>
 
 ---
@@ -50,14 +58,19 @@
 
 ---
 
+### 🐍 GitHub Contribution Snake
+
+<p align="center">
+  <img src="https://github.com/arunrengaraman/arunrengaraman/blob/output/github-contribution-grid-snake.svg" alt="Contribution Snake" />
+</p>
+
+---
+
 ### 🚀 Let's Connect
 
 <p>
   <a href="https://www.linkedin.com/in/arun-rengaraman-94a22118b" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:arunrengaraman@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://arunrengaraman.github.io" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=github&logoColor=white" />
@@ -65,6 +78,10 @@
 </p>
 
 ---
+
+### ✨ Fun Fact
+
+> I automate boring tasks for breakfast and visualize insights for dinner!
 
 <p align="center">
   🚀 “Turning data into decisions.”  
