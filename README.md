@@ -53,7 +53,7 @@
 ### 🚀 Let's Connect
 
 <p>
-  <a href="https://www.linkedin.com/in/arunrengaraman/" target="_blank">
+  <a href="[https://www.linkedin.com/in/arunrengaraman/](https://www.linkedin.com/in/arun-rengaraman-94a22118b/)" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:arunrengaraman@gmail.com">
