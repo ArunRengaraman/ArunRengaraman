@@ -58,14 +58,6 @@
 
 ---
 
-### 🐍 GitHub Contribution Snake
-
-<p align="center">
-  <img src="https://github.com/arunrengaraman/arunrengaraman/blob/output/github-contribution-grid-snake.svg" alt="Contribution Snake" />
-</p>
-
----
-
 ### 🚀 Let's Connect
 
 <p>
@@ -79,10 +71,4 @@
 
 ---
 
-### ✨ Fun Fact
 
-> I automate boring tasks for breakfast and visualize insights for dinner!
-
-<p align="center">
-  🚀 “Turning data into decisions.”  
-</p>
